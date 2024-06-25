@@ -5,7 +5,7 @@ function Error(){
     return(
         <>
             <div className="error">
-                <img src="https://kfg6bckb.media.zestyio.com/yalantis-interactive-404.gif" alt="error image not available" />
+                <img src="https://freefrontend.com/assets/img/html-funny-404-pages/HTML-Yeti-404-Page.gif" alt="error image not available" width='1350px' height='611px'/>
             </div>
         </>
     )

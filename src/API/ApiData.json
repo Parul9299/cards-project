@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Pirate of the Carribean",
+        "id": "pirate-of-the-carribean",
+        "img_url": "https://assets.mspimages.in/gear/wp-content/uploads/2023/02/pirate-of-the-carribean.jpg",
+        "rating": "4.5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis labore, id iure reprehenderit eius debitis est reiciendis sit consequatur itaque! Sequi ex fugiat esse molestiae, magni sint dolorum voluptatem ipsum sed ut laborum necessitatibus, repellendus rerum repellat in numquam? Optio ea officiis aperiam fuga nulla tenetur ducimus, a, architecto praesentium excepturi veniam quo explicabo nihil in repudiandae repellat eveniet, accusamus non saepe ipsam voluptate! Vero doloribus autem consequatur nobis reprehenderit, incidunt eligendi ullam ea sint porro, totam at amet quod corrupti minus nisi repellat provident illum officia. Incidunt voluptas fuga saepe in cupiditate doloribus beatae? Similique illo doloremque voluptate?",
+        "genre": ["Thriller", "Mysterious, Comedy"],
+        "watch_url": "https://www.hotstar.com"
+    },
+    {
+        "name": "Harry Potter",
+        "id": "harry-potter",
+        "img_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/05/Harry-Potter-Movies-in-Order.jpg",
+        "rating": "4.5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis labore, id iure reprehenderit eius debitis est reiciendis sit consequatur itaque! Sequi ex fugiat esse molestiae, magni sint dolorum voluptatem ipsum sed ut laborum necessitatibus, repellendus rerum repellat in numquam? Optio ea officiis aperiam fuga nulla tenetur ducimus, a, architecto praesentium excepturi veniam quo explicabo nihil in repudiandae repellat eveniet, accusamus non saepe ipsam voluptate! Vero doloribus autem consequatur nobis reprehenderit, incidunt eligendi ullam ea sint porro, totam at amet quod corrupti minus nisi repellat provident illum officia. Incidunt voluptas fuga saepe in cupiditate doloribus beatae? Similique illo doloremque voluptate?",
+        "genre": ["Thriller", "Mysterious"],
+        "watch_url": "https://www.netflix.com"
+    },
+    {
+        "name": "Wednesday",
+        "id": "wednesday",
+        "img_url": "https://tvseries.wiki/content/images/2022/10/Netflix_Wednesday.webp",
+        "rating": "4.5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis labore, id iure reprehenderit eius debitis est reiciendis sit consequatur itaque! Sequi ex fugiat esse molestiae, magni sint dolorum voluptatem ipsum sed ut laborum necessitatibus, repellendus rerum repellat in numquam? Optio ea officiis aperiam fuga nulla tenetur ducimus, a, architecto praesentium excepturi veniam quo explicabo nihil in repudiandae repellat eveniet, accusamus non saepe ipsam voluptate! Vero doloribus autem consequatur nobis reprehenderit, incidunt eligendi ullam ea sint porro, totam at amet quod corrupti minus nisi repellat provident illum officia. Incidunt voluptas fuga saepe in cupiditate doloribus beatae? Similique illo doloremque voluptate?",
+        "genre": ["Thriller", "Mysterious"],
+        "watch_url": "https://www.netflix.com"
+    },
+    {
+        "name": "Aquamen and the Lost Kingdom",
+        "id": "aquamen-and-the-lost-kingdom",
+        "img_url": "https://static01.nyt.com/images/2023/11/05/multimedia/05holiday-film-list-aquaman-fkwc/05holiday-film-list-aquaman-fkwc-videoSixteenByNine3000.jpg",
+        "rating": "4.5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis labore, id iure reprehenderit eius debitis est reiciendis sit consequatur itaque! Sequi ex fugiat esse molestiae, magni sint dolorum voluptatem ipsum sed ut laborum necessitatibus, repellendus rerum repellat in numquam? Optio ea officiis aperiam fuga nulla tenetur ducimus, a, architecto praesentium excepturi veniam quo explicabo nihil in repudiandae repellat eveniet, accusamus non saepe ipsam voluptate! Vero doloribus autem consequatur nobis reprehenderit, incidunt eligendi ullam ea sint porro, totam at amet quod corrupti minus nisi repellat provident illum officia. Incidunt voluptas fuga saepe in cupiditate doloribus beatae? Similique illo doloremque voluptate?",
+        "genre": ["Thriller", "Mysterious"],
+        "watch_url": "https://www.jiocinema.com"
+    },
+    {
+        "name": "Thor:The Dark World",
+        "id": "thor-the-dark-world",
+        "img_url": "https://images.bauerhosting.com/legacy/empire-tmdb/films/76338/images/3FweBee0xZoY77uO1bhUOlQorNH.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+        "rating": "4.5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis labore, id iure reprehenderit eius debitis est reiciendis sit consequatur itaque! Sequi ex fugiat esse molestiae, magni sint dolorum voluptatem ipsum sed ut laborum necessitatibus, repellendus rerum repellat in numquam? Optio ea officiis aperiam fuga nulla tenetur ducimus, a, architecto praesentium excepturi veniam quo explicabo nihil in repudiandae repellat eveniet, accusamus non saepe ipsam voluptate! Vero doloribus autem consequatur nobis reprehenderit, incidunt eligendi ullam ea sint porro, totam at amet quod corrupti minus nisi repellat provident illum officia. Incidunt voluptas fuga saepe in cupiditate doloribus beatae? Similique illo doloremque voluptate?",
+        "genre": ["Thriller", "Mysterious"],
+        "watch_url": "https://www.netflix.com"
+    },
+    {
+        "name": "Loki",
+        "id": "loki",
+        "img_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/06/Men-In-Black-International-Movie.jpg",
+        "rating": "4.5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis labore, id iure reprehenderit eius debitis est reiciendis sit consequatur itaque! Sequi ex fugiat esse molestiae, magni sint dolorum voluptatem ipsum sed ut laborum necessitatibus, repellendus rerum repellat in numquam? Optio ea officiis aperiam fuga nulla tenetur ducimus, a, architecto praesentium excepturi veniam quo explicabo nihil in repudiandae repellat eveniet, accusamus non saepe ipsam voluptate! Vero doloribus autem consequatur nobis reprehenderit, incidunt eligendi ullam ea sint porro, totam at amet quod corrupti minus nisi repellat provident illum officia. Incidunt voluptas fuga saepe in cupiditate doloribus beatae? Similique illo doloremque voluptate?",
+        "genre": ["Thriller", "Mysterious"],
+        "watch_url": "https://www.hotstar.com"
+    },
+    {
+        "name": "Men in the Black",
+        "id": "men-in-the-black",
+        "img_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/ACE773BDC4F7EB75139F3F00C0CB1B2590AF7E064AF9DE0C2F1F7DDD8C3EC01A/scale?width=1200&aspectRatio=1.78&format=webp",
+        "rating": "4.5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis labore, id iure reprehenderit eius debitis est reiciendis sit consequatur itaque! Sequi ex fugiat esse molestiae, magni sint dolorum voluptatem ipsum sed ut laborum necessitatibus, repellendus rerum repellat in numquam? Optio ea officiis aperiam fuga nulla tenetur ducimus, a, architecto praesentium excepturi veniam quo explicabo nihil in repudiandae repellat eveniet, accusamus non saepe ipsam voluptate! Vero doloribus autem consequatur nobis reprehenderit, incidunt eligendi ullam ea sint porro, totam at amet quod corrupti minus nisi repellat provident illum officia. Incidunt voluptas fuga saepe in cupiditate doloribus beatae? Similique illo doloremque voluptate?",
+        "genre": ["Thriller", "Mysterious"],
+        "watch_url": "https://www.hotstar.com"
+    }
+]
